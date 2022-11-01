@@ -31,7 +31,7 @@ function App() {
             <Team />
             <Coord
               batch="2021"
-              t1img="https://www.w3schools.com/css/paris.jpg"
+              t1img="https://www.w3sc hools.com/css/paris.jpg"
               t1title="Card title"
             />
           </Route>
