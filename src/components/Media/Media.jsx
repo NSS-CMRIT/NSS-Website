@@ -1,5 +1,4 @@
 import React from "react";
-import SingleCard from "../Gallery/SingleCard";
 import './Media.css'
 
 function Media(){
@@ -8,11 +7,13 @@ function Media(){
         <div className="col col-lg-6 col-sm-12 mb-4 mb-lg-0">
             <img src="../images/media/media1.jpg" 
                 className="rounded shadow-1-strong tp1 border border-dark"
+                alt="images"
             />
             <br></br>
             <img src="../images/media/media3.jpg" 
                 className="rounded shadow-1-strong tp border border-dark sd"
                 width={400}
+                alt="images"
             />
             
         </div>
@@ -22,6 +23,7 @@ function Media(){
                 className="rounded shadow-1-strong border border-dark mr tp1"
                 width={500}
                 height={800}
+                alt="images"
             />
         </div>
 
@@ -31,6 +33,7 @@ function Media(){
                 className="rounded shadow-1-strong border border-dark tp1 bt"
                 width={400}
                 height={500}
+                alt="images"
             />
         </div>
 
@@ -38,6 +41,7 @@ function Media(){
         <img src="../images/media/media5.jpg" 
                 className="rounded shadow-1-strong border border-dark tp1 bt mr"
                 width={500}
+                alt="images"
             />
         </div>
         </div>
