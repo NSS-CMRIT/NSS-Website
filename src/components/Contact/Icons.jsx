@@ -24,12 +24,12 @@ function Email(){
     </div>;
 }
 
-function Phone(){
+function Phone(props){
     return <div className="overflow-auto">
         <div className="card cards" style={{width: "18rem"}}>
             <i  className="bi bi-phone  ii card-img-top rounded-circle "></i>
             <div className="card-body">
-                <p className="para ">98235674xx</p>
+                <p className="para ">{props.name}{props.number}</p>
             </div>
         </div>
     </div>;

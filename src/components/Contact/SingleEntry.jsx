@@ -7,7 +7,7 @@ function SingleEntry()
     <div className="row">
     <div className='col'><Instagram /> </div>
     <div className='col'><Email  /></div>
-    <div className='col'><Phone  /></div>
+    <div className='col'><Phone name="V. Mani Sai Varma "  number="7732048815"/></div>
     </div>
   </div>;
 }

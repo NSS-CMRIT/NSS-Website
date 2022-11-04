@@ -36,7 +36,7 @@ function App() {
               t1title="V. Mani Sai Varma"
 
               t2img="https://drive.google.com/uc?export=view&id=1GV1SEak-_P7xdYZjieyX3lhXP7Hv9maE"
-              t2title="S. Jeethandra"
+              t2title="S. Jeethendra"
 
               t3img="https://drive.google.com/uc?export=view&id=1FjXus5jswGWyfieWapwtE4ER4p-oMbDt"
               t3title="K. Madhusudhan"
