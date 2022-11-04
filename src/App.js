@@ -13,7 +13,8 @@ import Contact from "./components/Contact/Contact";
 import Coord from "./components/coordinators/Coord";
 import Events from "./components/events/Events";
 import Gallery from "./components/Gallery/Gallery";
-
+import Media from './components/Media/Media';
+import Videoz from "./components/Videoz/Videoz"
 
 function App() {
   return (
@@ -37,6 +38,12 @@ function App() {
           </Route>
 
           <Route path="/photos"> <Gallery />
+    </Route>
+
+    <Route path="/media"> <Media />
+    </Route>
+
+    <Route path="/videos"> <Videoz />
     </Route>
 
           <Route path="/special-events">

@@ -5,7 +5,7 @@ function Carousel() {
     <div>
       <div
         id="carouselDarkVariant"
-        class="carousel slide carousel-fade carousel-dark mt"
+        class="carousel slide carousel-fade carousel-dark mt ty"
         data-bs-ride="carousel"
       >
         <div class="carousel-indicators">
@@ -32,8 +32,9 @@ function Carousel() {
           <div class="carousel-item active">
             <img
               src="../images/slide2.png"
-              class="d-block w-100 hero"
+              class="d-block w-100 hero img-fluid"
               alt="Motorbike Smoke"
+              height={400}
             />
             {/* <div class="carousel-caption d-none d-md-block">
               <h5>First slide label</h5>
@@ -43,9 +44,10 @@ function Carousel() {
 
           <div class="carousel-item">
             <img
-              src="https://cmritonline.ac.in/wp-content/uploads/2021/09/Screenshot-17-1024x501-1.png"
-              class="d-block w-100 hero"
+              src="../images/slide1.png"
+              class="d-block w-100 hero img-fluid"
               alt="Mountaintop"
+              height={400}
             />
             {/* <div class="carousel-caption d-none d-md-block">
               <h5>Second slide label</h5>

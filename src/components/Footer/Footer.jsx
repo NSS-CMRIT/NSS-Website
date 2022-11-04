@@ -7,14 +7,9 @@ export default function Footer() {
     <div className="footer">
       <footer>
         <HomeNav />
-        <div className="foot2 text-center bb">
+        <div className="foot2 text-center">
         <div className="bb">
-          <p className="foot-p bb">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt
-            distinctio earum repellat quaerat voluptatibus placeat nam, commodi
-            optio pariatur est quia magnam eum harum corrupti dicta, aliquam
-            sequi voluptate quas.
-          </p>
+          
           
           <p className="foot-p2">
             Social Media Links
@@ -24,7 +19,7 @@ export default function Footer() {
           <a href="https://twitter.com/cmrit_nss?s=11&t=1prFEDQ3duNaIRMkn0TuLQ"><i class="bi bi-twitter sizes right"></i></a>
           </div>
           <p className="foot-p3">
-            Developed by Harsha Mysore
+            Developed by {"{ Harsha Mysore }"}
           </p>
         </div>
       </footer>

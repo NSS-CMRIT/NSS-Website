@@ -98,12 +98,12 @@ function HomeNav() {
                     </a>
                   </li>
                   <li>
-                    <a class="dropdown-item" href="#">
+                    <a class="dropdown-item" href="/videos">
                       Videos
                     </a>
                   </li>
                   <li>
-                    <a class="dropdown-item" href="#">
+                    <a class="dropdown-item" href="/media">
                       Media
                     </a>
                   </li>

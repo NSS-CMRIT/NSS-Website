@@ -11,40 +11,34 @@ function Team() {
       <div className="row">
         <div className="col-lg-6 space">
           <Card
-            img="https://www.w3schools.com/css/paris.jpg"
-            title="Card title"
-            text="Some quick example text to build on the card title and make up the bulk of the card's content."
+            img="https://drive.google.com/uc?export=view&id=16CT9CtqFbFVtnQTtKq1iZPIpK8LUzVmN"
+            title="Dr. P. Pavan Kumar"
+            text="Cheif Organizer"
           />
         </div>
         <div className="col-lg-6 space">
           <Card
-            img="https://www.w3schools.com/css/paris.jpg"
-            title="Card title"
-            text="Some quick example text to build on the card title and make up the bulk of the card's content."
+            img="https://drive.google.com/uc?export=view&id=164PoE7hLfTMuYKdfedHNGTfI877fBiXW"
+            title="Mr.G. Nanda Gopal"
+            text="NSS PO Unit - I"
           />
         </div>
-        <div className="col-lg-6 space">
+        <div className="col-lg-12 space">
           <Card
-            img="https://www.w3schools.com/css/paris.jpg"
-            title="Card title"
-            text="Some quick example text to build on the card title and make up the bulk of the card's content."
+            img="https://drive.google.com/uc?export=view&id=162QMQiR8kRIpwY39lkuYroqNoBMjtPq-"
+            title="Ms. O. Nikhila"
+            text="NSS PO Unit - II"
           />
         </div>
-        <div className="col-lg-6 space">
-          <Card
-            img="https://www.w3schools.com/css/paris.jpg"
-            title="Card title"
-            text="Some quick example text to build on the card title and make up the bulk of the card's content."
-          />
-        </div>
+        
         <div className="h4">
           <h4>Student Coordinators:  </h4>
         </div>
         <div className="row">
-          <TeamCard link="/2021" text="Alumni" />
-          <TeamCard link="#" text="Batch 2020" />
+          <TeamCard link="/2021" text="Committee Members" />
+          {/* <TeamCard link="#" text="Batch 2020" />
           <TeamCard link="#" text="Batch 2019" />
-          <TeamCard link="#" text="Batch 2018" />
+          <TeamCard link="#" text="Batch 2018" /> */}
           
         </div>
         </div>

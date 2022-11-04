@@ -20,14 +20,14 @@ function Nav() {
             
 
             <div class="col-9  text-right">
-              <span class="d-inline-block d-lg-block">
+              {/*<span class="d-inline-block d-lg-block">
                 <a
                   href="#"
                   class="text-dark site-menu-toggle js-menu-toggle py-5"
                 >
                   <span class="icon-menu h3 text-orange"></span>
                 </a>
-              </span>
+              </span>*/}
 
               <nav
                 class="site-navigation text-right ml-auto d-none d-lg-none"
