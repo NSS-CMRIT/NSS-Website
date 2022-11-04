@@ -32,8 +32,35 @@ function App() {
             <Team />
             <Coord
               batch="2021"
-              t1img="https://www.w3sc hools.com/css/paris.jpg"
-              t1title="Card title"
+              t1img="https://drive.google.com/uc?export=view&id=1dEtFcl5CoRKQaWsiKckUxl93ORA5D6dZ"
+              t1title="V. Mani Sai Varma"
+
+              t2img="https://drive.google.com/uc?export=view&id=1GV1SEak-_P7xdYZjieyX3lhXP7Hv9maE"
+              t2title="S. Jeethandra"
+
+              t3img="https://drive.google.com/uc?export=view&id=1FjXus5jswGWyfieWapwtE4ER4p-oMbDt"
+              t3title="K. Madhusudhan"
+
+              t4img="https://drive.google.com/uc?export=view&id=1VKtyqmZgu0uC7Rms8hTmKHq2hjX3XY8l"
+              t4title="G. Mythri"
+
+              t5img="https://drive.google.com/uc?export=view&id=12KSAu27MdevvnAQ2QliScICRVAUj2tI6"
+              t5title="S. Jashwanth"
+
+              t6img="https://drive.google.com/uc?export=view&id=1LjQXmiYChoZWG5WVfAnAUAKjmIycaXpy"
+              t6title="K. Lakshmi Prasanna"
+
+              t7img="https://drive.google.com/uc?export=view&id=1CZxlyyiHDJ83_8FyGoeLQB39h_ZfZ-qM"
+              t7title="S. Hemanth"
+
+              t8img="https://drive.google.com/uc?export=view&id=1DzvcBNzq00AAoaTOU-En98IFVxp61vAS"
+              t8title="B. Sravani Reddy"
+
+              t9img="https://drive.google.com/uc?export=view&id=19YXpo-jpfZt5ZJcJnXTD0vVOfSkD9NG4"
+              t9title="A. Harsha Vardhan"
+
+              t10img="https://drive.google.com/uc?export=view&id=1BG5ffuhXDFdQW4hY4pOKI0hohVmZghHj"
+              t10title="T. Sanghavi"
             />
           </Route>
 

@@ -44,7 +44,7 @@ function Carousel() {
 
           <div class="carousel-item">
             <img
-              src="../images/slide1.png"
+              src="https://drive.google.com/uc?export=view&id=1HhxjbKFe-hExvsfCvCbdOO6gT8FG8wo1"
               class="d-block w-100 hero img-fluid"
               alt="Mountaintop"
               height={400}
@@ -57,9 +57,10 @@ function Carousel() {
 
           <div class="carousel-item">
             <img
-              src="https://cmritonline.ac.in/wp-content/uploads/2021/09/Screenshot-17-1024x501-1.png "
-              class="d-block w-100 hero"
+              src="../images/slide1.png"
+              class="d-block w-100 hero img-fluid"
               alt="Woman Reading a Book"
+              height={400}
             />
             <div class="carousel-caption d-none d-md-block">
               {/* <h5>Third slide label</h5>
