@@ -48,7 +48,7 @@ function App() {
               t5title="S. Jashwanth"
 
               t6img="https://drive.google.com/uc?export=view&id=1LjQXmiYChoZWG5WVfAnAUAKjmIycaXpy"
-              t6title="K. Lakshmi Prasanna"
+              t6title="K. Laxmi Prasanna"
 
               t7img="https://drive.google.com/uc?export=view&id=1CZxlyyiHDJ83_8FyGoeLQB39h_ZfZ-qM"
               t7title="S. Hemanth"
