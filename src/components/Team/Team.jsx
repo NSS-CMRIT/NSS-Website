@@ -35,7 +35,8 @@ function Team() {
           <h4>Student Coordinators:  </h4>
         </div>
         <div className="row">
-          <TeamCard link="/2021" text="Committee Members" />
+          <TeamCard link="/committeemembers" text="Committee Members" />
+
           {/* <TeamCard link="#" text="Batch 2020" />
           <TeamCard link="#" text="Batch 2019" />
           <TeamCard link="#" text="Batch 2018" /> */}

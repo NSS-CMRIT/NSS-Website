@@ -28,15 +28,70 @@ function App() {
             <Team />
           </Route>
 
-          <Route path="/2021">
+          <Route path="/committeemembers">
             <Team />
             <Coord
-              batch="2021"
-              t1img="https://www.w3sc hools.com/css/paris.jpg"
-              t1title="Card title"
+              batch="2022-2023"
+              t1img="https://drive.google.com/uc?export=view&id=1dEtFcl5CoRKQaWsiKckUxl93ORA5D6dZ"
+              t1title="V. Mani Sai Varma"
+
+              t2img="https://drive.google.com/uc?export=view&id=1GV1SEak-_P7xdYZjieyX3lhXP7Hv9maE"
+              t2title="S. Jeethendra"
+
+              t3img="https://drive.google.com/uc?export=view&id=1FjXus5jswGWyfieWapwtE4ER4p-oMbDt"
+              t3title="K. Madhusudhan"
+
+              t4img="https://drive.google.com/uc?export=view&id=1VKtyqmZgu0uC7Rms8hTmKHq2hjX3XY8l"
+              t4title="G. Mythri"
+            
+
+            />
+            <Coord
+              batch="2023-2024"
+          
+              t1img="https://drive.google.com/uc?export=view&id=12KSAu27MdevvnAQ2QliScICRVAUj2tI6"
+              t1title="S. Jashwanth"
+
+              t2img="https://drive.google.com/uc?export=view&id=1jCZc7M4rxfLTga90ra8LtU7T_nU1DUKe"
+              t2title="K. Hemanth"
+
+              t3img="https://drive.google.com/uc?export=view&id=1oOrPKPesojH0x-j_cN975bklOGsXF8RB"
+              t3title="L. Abhinav Reddy"
+
+              t4img="https://drive.google.com/uc?export=view&id=1-LN2ADqcf9140dofdVSDTm0evd3RrFjA"
+              t4title="S. Hemanth"
+
+              t5img="https://drive.google.com/uc?export=view&id=1mMOxug_BquSPepPNYeAICRh5mBkFPG5M"
+              t5title="V. Bhavishya"
+
+              t6img="https://drive.google.com/uc?export=view&id=1DzvcBNzq00AAoaTOU-En98IFVxp61vAS"
+              t6title="B. Sravani Reddy"
+
+              t7img="https://drive.google.com/uc?export=view&id=1Nz4cZmAjabwzP0LSzRn5H5olWczqqlzF"
+              t7title="Ch. Yashika"
+
+              t8img="https://drive.google.com/uc?export=view&id=12DtlRLESSHIDctW5eN3WtwK1tpwES8n_"
+              t8title="D. Shivani"
+
+              t9img="https://drive.google.com/uc?export=view&id=19YXpo-jpfZt5ZJcJnXTD0vVOfSkD9NG4"
+              t9title="A. Harsha Vardhan"
+
+              t10img="https://drive.google.com/uc?export=view&id=1A0y3gIRYLGfjpIsEukQ3XnbPHz2AIivO"
+              t10title="V. Mani Shankar Varma"
+
+              t11img="https://drive.google.com/uc?export=view&id=1KFhbVWF8_LeFDM6d7IKw93VmEWXeyKC5"
+              t11title="K. Chakrader Reddy"
+
+              t12img="https://drive.google.com/uc?export=view&id=13oDqX5fR77TVP8t4tlvUufjQCpzfwqPU"
+              t12title="P. Sai Charan Reddy"
+
+             
+
+
             />
           </Route>
-
+          
+            
           <Route path="/photos"> <Gallery />
     </Route>
 
@@ -74,6 +129,23 @@ function App() {
             <Events
               text={
                 <div className="row">
+                  <h4 className="left">2022 - 2023</h4>
+                  <ul>
+                   <li className="a" >INDEPENDENCE DAY 15/08/23</li>
+                   <li className="a" >MERI MAATI MERA DESH 10/08/23</li>
+                   <li className="a" >INTERNATIONAL PLASTIC FREE DAY 03/07/23</li>
+                   <li className="a" >INTERNATIONAL YOGA DAY 21/06/23</li>
+                   <li className="a" >HARITHA HARAM 15/05/23</li>
+                   <li className="a" >MOTHER'S DAY 13/05/23</li>
+                   <li className="a" >WOMEN'S DAY 08/03/23</li>
+                   <li className="a" >REPUBLIC DAY 26/01/23</li>
+                   <li className="a" >GIRL CHILD DAY & VOTERS DAY 24/01/23 & 25/01/23</li>
+                   <li  className="a" >NSS ORIENTATION DAY  05/10/22</li>
+                   </ul>
+
+
+
+
                   <h4 className="left">2021 - 2022</h4>
                   <ul>
                    <li  className="a" >BATHUKAMMA SANDHADI 29/09/22 TO 01/10/22</li>
@@ -129,9 +201,17 @@ function App() {
           <Route path="/sevent">
             <Events
               text={
-                <div className="row">
-                <ul>
+              <div className="row">
+                <h4 className="left">2022 - 2023</h4>
+                 <ul>
+                 <li className="a">INTERNATIONAL BIODIVERSITY DAY 23/05/23</li>
+                 <li className="a">SRISHTI 28/02/23</li>
+                 <li className="a">STATE LEVEL YOUTH FESTIVAL 15/12/22 TO 17/12/22</li>
+                 
+                  
+                 </ul>
                  <h4 className="left">2021 -2022</h4>
+                 <ul>
                  <li className="a">SVATANTRA BHARATHA VAJROTSAVALU (NATIONAL ANTHEM) 16/08/22</li>
                  <li className="a">NATIONAL YOUTH PARLIAMENT 10/03/22</li>
                  <li className="a">NATIONAL SCIENCE DAY 28/02/22</li>
@@ -157,6 +237,13 @@ function App() {
             <Events
               text={
                 <div className="row">
+                  <h4 className="left">2022 - 2023</h4>
+                  <ul>
+                  <li className="a">MEDCHAL DISTRICT LEVEL YUVA UTSAV 20/07/23</li>
+                  <li className="a">TELANGANA RASHTRA AVATARNA DASHBADI 20/06/23</li>
+                  <li className="a">NARCOTIC DRUGS & ADVERSE EFFECTS 03/06/23</li>
+                  <li className="a">TRANING ON YOUTH LEADERSHIP & COMMUNITY DEVELOPMENT 02/02/23 TO 04/02/23</li>
+                  </ul>
                   <h4 className="left">2021 - 2022</h4>
                   <ul>
                   <li className="a">INDEPENDENCE DAY CELEBRATIONS AT JNTUH 15/08/22</li>
@@ -167,7 +254,7 @@ function App() {
                   </ul>
                   <h4 className="left">2020 - 2021</h4>
                   <ul>
-                  <li className="a">RAKSHIN WORKSHOP 04/08/20-26/10/20</li>
+                  <li className="a">RAKSHIN WORKSHOP 04/08/20 TO 26/10/20</li>
                   <li className="a">PRE RD SELECTIONS 13/11/20</li>
                   </ul>
                   <h4 className="left">2019 - 2020</h4>
@@ -191,6 +278,10 @@ function App() {
             <Events
               text={
                 <div className="row">
+                  <h4 className="left">2022 - 2023</h4>
+                  <ul>
+                  <li className="a">12TH NATIONAL YOUTH FESTIVAL (KARNATAKA) 12/01/23 TO 16/01/23</li>
+                  </ul>
                   <h4 className="left">2021 - 2022</h4>
                   <ul>
                   <li className="a">NATIONAL YOUTH FESTIVAL 12/01/22</li>

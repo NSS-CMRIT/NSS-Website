@@ -26,7 +26,8 @@ function Gallery(){
         <PicsCard event="National Youth Parliment"
         imga="https://drive.google.com/uc?export=view&id=1xzCnHsi-UiGI8kuv_p1yKf30ZHCbNpW4"
         imgb="https://drive.google.com/uc?export=view&id=1lH_e4lQhOMW9PpH0tCH_Q8CkEOxw1YoH"
-        
+        imgc="https://drive.google.com/uc?export=view&id=1PAjll_yBcNzhRrRP-IOkvzcGn1bASrhS"
+
         />
         <PicsCard event="NSS Day"
         imga="https://drive.google.com/uc?export=view&id=1MjHsMH1B-el9Y5ihWF7UofNKts4Lk_kP"
@@ -57,6 +58,60 @@ function Gallery(){
         imgb="https://drive.google.com/uc?export=view&id=14jYQbTZQ072DR1eQf6SzvCw9LGzP3Al5"
         imgc="https://drive.google.com/uc?export=view&id=1NSsjpqqkTHmhuQ2tnlvYaTb27ij0dHSS"
         />
+
+<PicsCard event="NSS Orientation Day"
+        imga="https://drive.google.com/uc?export=view&id=1pPa5pyyFLAmCCCoe4UDyC7UN0OUROjDR"
+        imgb="https://drive.google.com/uc?export=view&id=1SL8a0W18hMtvYrDP55G4hJFDeYMjgUFI"
+        imgc="https://drive.google.com/uc?export=view&id=1zwFf18HrduYJ4qEUnXM5vSUG3stKMTIU"
+        />
+
+<PicsCard event="State Level Youth Festival "
+        imga="https://drive.google.com/uc?export=view&id=18rbL13-2Qr9XiLsS9ToIEVVUpRC6r5pY"
+        imgb="https://drive.google.com/uc?export=view&id=1F3hNPqq6vgElinNBdCJtBE5dR8WRoJiU"
+        imgc="https://drive.google.com/uc?export=view&id=1P4u8DCGQW5R_bJZpqNMN2epX0yk3Trpr"
+        />
+
+<PicsCard event="National Level Youth Festival "
+        imga="https://drive.google.com/uc?export=view&id=1UgnS5rk8uImc1DZ_NCAfKC93rYY8L0Zi"
+        imgb="https://drive.google.com/uc?export=view&id=1cDhi4Tsso-ytlZIM1J2H1Kch-aPctJoE"
+        imgc="https://drive.google.com/uc?export=view&id=16WY4WFMgpRQH37aof2DQVh5C1XkntPEN"
+        />
+
+<PicsCard event="Republic Day"
+        imga="https://drive.google.com/uc?export=view&id=1eL-KfhhkvaogmHFrxnLtmFIgKWZgNvR4"
+        imgb="https://drive.google.com/uc?export=view&id=1b6rYX2nVYMSuOIuom9QYVQvwguP6PUXE"
+        imgc="https://drive.google.com/uc?export=view&id=1I-oq0S-Nukn7bsrpnkjpZ0BUYnc7K3R-"
+        />
+
+<PicsCard event="14th Youth Tribal Exchange Programme"
+        imga="https://drive.google.com/uc?export=view&id=1K95iHYADRhmcwKuieBEOPE8mkDmVrey5"
+        imgb="https://drive.google.com/uc?export=view&id=1iLU7JJV1E9EG4_EuYGOYKumzC2f2hfEm"
+        imgc="https://drive.google.com/uc?export=view&id=1FJKYm2XC9fMUsJQ4EHQDxu1fykyOwCIM"
+        />     
+
+<PicsCard event="District Level Youth Festival"
+        imga="https://drive.google.com/uc?export=view&id=1KMDB-6QCxvVXKXRzHI1-SRsrxt2lgI8z"
+        imgb="https://drive.google.com/uc?export=view&id=11Anwdp2e7NBBi5qdcRrEC9pztHz9so6n"
+        imgc="https://drive.google.com/uc?export=view&id=18vHKy2xCt4RIJGD5MAvU7_UCTbYfxy7_"
+        />    
+
+<PicsCard event="Meri Maati Mera Desh"
+        imga="https://drive.google.com/uc?export=view&id=1lHU9sc7cj4nzJBPwipDu1PJHOjTOKmab"
+        imgb="https://drive.google.com/uc?export=view&id=1qf9dSd-CiLghkqu-1LoFVcnDAq7U3e6U"
+        imgc="https://drive.google.com/uc?export=view&id=1q2zPfydtOTLZz1oyBusFpaAp0zSZ_0p5"
+        />  
+
+<PicsCard event="Plantation Drive"
+        imga="https://drive.google.com/uc?export=view&id=1aPTyrZeQYp0CZmu01GdthijS4f8R4Ukc"
+        imgb="https://drive.google.com/uc?export=view&id=1EM4ivibkLA7uk2nT1OcPZhqv-sDc1Ulz"
+        imgc="https://drive.google.com/uc?export=view&id=1EZG2NkrRAznU7rXhjKonxqUEftniQDoK"
+        />  
+
+<PicsCard event="Hyderabad Liberation Day"
+        imga="https://drive.google.com/uc?export=view&id=1re6Pil2i3HwqTYtNExAkCiGadiNOiV7d"
+        imgb="https://drive.google.com/uc?export=view&id=1bKJgrJczo4hI9CKCALGTuwZn-y9If7Ro"
+        imgc="https://drive.google.com/uc?export=view&id=1hto7k5ZiPgVm4nVYWRzEBoAugYHPYUsU"
+        />  
     </div>;
 }
 
