@@ -57,7 +57,7 @@ function Carousel() {
 
           <div class="carousel-item">
             <img
-              src="../images/slide1.png"
+              src="https://drive.google.com/uc?export=view&id=1rTWEy9NqJJf_A_VefIAFI3fWW7BlSadT"
               class="d-block w-100 hero img-fluid"
               alt="Woman Reading a Book"
               height={400}
