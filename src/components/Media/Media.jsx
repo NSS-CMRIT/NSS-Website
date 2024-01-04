@@ -47,7 +47,22 @@ function Media(){
                 height={500}
                 alt="images"
             />
-            <img src="../images/media/media6.jpg" 
+            <img src="../images/media/media14.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+        </div>
+        
+        <div className="col col-lg-6 col-sm-12 mb-4 mb-lg-0">
+        <img src="../images/media/media6.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+            <img src="../images/media/media15.jpg" 
                 className="rounded shadow-1-strong border border-dark tp1 bt"
                 width={400}
                 height={500}
@@ -61,7 +76,7 @@ function Media(){
                 height={500}
                 alt="images"
             />
-            <img src="../images/media/media8.jpg" 
+            <img src="../images/media/media9.jpg" 
                 className="rounded shadow-1-strong border border-dark tp1 bt"
                 width={400}
                 height={500}
@@ -69,13 +84,13 @@ function Media(){
             />
         </div>
         <div className="col col-lg-6 col-sm-12 mb-4 mb-lg-0">
-        <img src="../images/media/media9.jpg" 
+        <img src="../images/media/media8.jpg" 
                 className="rounded shadow-1-strong border border-dark tp1 bt"
                 width={400}
                 height={500}
                 alt="images"
             />
-            <img src="../images/media/media10.jpg" 
+            <img src="../images/media/media24.jpg" 
                 className="rounded shadow-1-strong border border-dark tp1 bt"
                 width={400}
                 height={500}
@@ -83,7 +98,21 @@ function Media(){
             />
         </div>
         <div className="col col-lg-6 col-sm-12 mb-4 mb-lg-0">
-        <img src="../images/media/media11.jpg" 
+        <img src="../images/media/media25.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+            <img src="../images/media/media11.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+        </div>
+        <div className="col col-lg-6 col-sm-12 mb-4 mb-lg-0">
+        <img src="../images/media/media10.jpg" 
                 className="rounded shadow-1-strong border border-dark tp1 bt"
                 width={400}
                 height={500}
@@ -96,6 +125,65 @@ function Media(){
                 alt="images"
             />
         </div>
+        <div className="col col-lg-6 col-sm-12 mb-4 mb-lg-0">
+        <img src="../images/media/media23.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+            <img src="../images/media/media21.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+        </div>
+        <div className="col col-lg-6 col-sm-12 mb-4 mb-lg-0">
+        <img src="../images/media/media22.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+            <img src="../images/media/media20.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+        </div>
+        <div className="col col-lg-6 col-sm-12 mb-4 mb-lg-0">
+        <img src="../images/media/media19.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+            <img src="../images/media/media16.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+        </div>
+        <div className="col col-lg-6 col-sm-12 mb-4 mb-lg-0">
+        <img src="../images/media/media18.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+            <img src="../images/media/media17.jpg" 
+                className="rounded shadow-1-strong border border-dark tp1 bt"
+                width={400}
+                height={500}
+                alt="images"
+            />
+        </div>
+        
+        
+        
         </div>
 
 

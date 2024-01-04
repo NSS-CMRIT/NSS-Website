@@ -1,6 +1,6 @@
 .wd{
-    width: 17rem;
-    height: 400px;
+    width: 18rem;
+    height: 500px;
     margin: 30px; 
     border: 1px solid #39C0ED;
     margin-top: 40px;
@@ -11,8 +11,13 @@
     margin: 20px;
     text-align: center;
 }
-.card-text{
-    font-weight: 400;
+.card-text1{
+    font-weight: 800;
     text-align: center;
     color: black;
+}
+.card-text2{
+    font-weight: 400;
+    text-align: center;
+    color: #800000;
 }

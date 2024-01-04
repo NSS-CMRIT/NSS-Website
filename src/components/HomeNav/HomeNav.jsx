@@ -76,6 +76,11 @@ function HomeNav() {
                   Special Events
                 </a>
               </li>
+              <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="/RDParade">
+                  RD Parade
+                </a>
+              </li>
               <li class="nav-item dropdown">
                 <a
                   class="nav-link dropdown-toggle"

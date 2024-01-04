@@ -46,6 +46,8 @@ function Coord(props) {
         />
       </div>
       
+
+      
       </div>
     </div>
   );
