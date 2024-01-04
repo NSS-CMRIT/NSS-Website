@@ -25,6 +25,9 @@ function Camp() {
         <li className="a">
           <a href="https://drive.google.com/file/d/1Gte4K8re5VLeEawG-Ou0h7Xlqj8aixTY/view?usp=sharing" className="a">NIC JAIPUR</a>
         </li>
+        <li className="a">
+          <a href="https://drive.google.com/file/d/1CKMt7pUozmsdlr5tAGDOcjhC7QXvohIB/view?usp=drive_link" className="a">NIC EAST GODAVARI</a>
+        </li>
       </ul>
     </div>
   );

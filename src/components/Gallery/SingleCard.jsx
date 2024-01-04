@@ -7,6 +7,7 @@ function SingleCard(props){
        <div className="col"><img className="img-fluid rounded thumbnail" src={props.imga} alt="imgA"></img></div>
        <div className="col"><img className="img-fluid rounded thumbnail" src={props.imgb} alt="imgB"></img></div>
        <div className="col"><img className="img-fluid rounded thumbnail" src={props.imgc} alt="imgC"></img></div>
+      
       </div>   
     </div>
 }
