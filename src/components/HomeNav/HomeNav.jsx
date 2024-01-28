@@ -69,6 +69,11 @@ function HomeNav() {
                       National
                     </a>
                   </li>
+                  <li>
+                    <a class="dropdown-item" href="/zevent">
+                      Zone Camps
+                    </a>
+                  </li>
                 </ul>
               </li>
               <li className="nav-item">
