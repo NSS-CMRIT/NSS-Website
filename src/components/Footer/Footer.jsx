@@ -17,6 +17,7 @@ export default function Footer() {
           <a href="https://www.instagram.com/cmrit.nss/"><i class="bi bi-instagram sizes left"></i></a>
           <a href="https://www.youtube.com/channel/UCmj-6V2rmxaFsGB1KB6CAyA/featured"><i class="bi bi-youtube sizes"></i></a>
           <a href="https://twitter.com/cmrit_nss?s=11&t=1prFEDQ3duNaIRMkn0TuLQ"><i class="bi bi-twitter sizes right"></i></a>
+          <a href="cmrit.nssunit12@gmail.com"><i  className="bi bi-envelope sizes right"></i></a>                                                                
           </div>
           
         </div>
