@@ -108,6 +108,29 @@ function Coord(props) {
         title: props.t5title,
       },
     ],
+    "Student Coordinator  's": [
+      
+      {
+        img: props.t1img,
+        title: props.t1title,
+      },
+      {
+        img: props.t2img,
+        title: props.t2title,
+      },
+      {
+        img: props.t3img,
+        title: props.t3title,
+      },
+      {
+        img: props.t4img,
+        title: props.t4title,
+      },
+      {
+        img: props.t5img,
+        title: props.t5title,
+      },
+    ],
     "Student Coordinators": [
       {
         img: props.t1img,
@@ -173,6 +196,12 @@ function Coord(props) {
         img: props.t10img,
         title: props.t10title,
       },
+
+      {
+        img: props.t11img,
+        title: props.t11title,
+      },
+
     ],
   };
 

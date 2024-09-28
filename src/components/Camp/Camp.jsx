@@ -7,6 +7,9 @@ function Camp() {
       <h4>Special Events</h4>
       <hr></hr>
       <ul>
+      <li className="a">
+          <a href="https://drive.google.com/file/d/18HoI7V5CaFprU7Ai9woFhm2-N8Oc8EG-/view?usp=drive_link" className="a" >NSS KARNATAKA 2024</a>
+        </li>
         <li className="a">
           <a href="https://drive.google.com/file/d/1DSwqsg1PdY7sv7f-Lg5tJ2QufFJ-nZae/view?usp=sharing" className="a" >NSS SPECIAL CAMP 2022</a>
         </li>

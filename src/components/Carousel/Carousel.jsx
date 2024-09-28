@@ -31,7 +31,7 @@ function Carousel() {
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img
-              src="../images/slide2.png"
+              src="../images/slide1.png"
               class="d-block w-100 hero img-fluid"
               alt="Motorbike Smoke"
               height={400}
@@ -44,7 +44,7 @@ function Carousel() {
 
           <div class="carousel-item">
             <img
-              src="https://drive.google.com/uc?export=view&id=1CgJ7cFjVoul2h7CR36b-btsHFp1EzYYG"
+              src="../images/slide2.png"
               class="d-block w-100 hero img-fluid"
               alt="Mountaintop"
               height={400}
@@ -57,7 +57,7 @@ function Carousel() {
 
           <div class="carousel-item">
             <img
-              src="https://drive.google.com/uc?export=view&id=1DBgzQ8If14ClwGnDAcCG7WJ9meXsO3qK"
+              src="../images/Carousel/slide3.png"
               class="d-block w-100 hero img-fluid"
               alt="Woman Reading a Book"
               height={400}
