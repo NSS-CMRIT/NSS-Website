@@ -32,42 +32,23 @@ function App() {
           <Route path="/committeemembers">
             <Team />
             <Coord
-              batch="Student Coordinators"
-              t1img="../images/Student Coordinators/1.jpg"
-              t1title="V. Mani Sai Varma  "
-            
-              t2img="../images/Student Coordinators/2.jpg"
-              t2title="S. Jeethendra"
+              batch="Student Coordinator  's"
+              t1img="../images/Student Coordinators/24.jpg"
+              t1title="K. Niharika"
 
-              t3img="../images/Student Coordinators/3.jpg"
-              t3title="K. Madhusudhan"
+              t2img="../images/Student Coordinators/23.jpg"
+              t2title="G. Krithika"
 
-              t4img="../images/Student Coordinators/17.jpg"
-              t4title="B. Shravan Goud"
+              t3img="../images/Student Coordinators/26.jpg"
+              t3title="N. Naveen"
 
-              t5img="../images/Student Coordinators/4.jpg"
-              t5title="G. Mythri"
-            
+              t4img="../images/Student Coordinators/22.jpg"
+              t4title="M. Shiva Krishna"
 
+              t5img="../images/Student Coordinators/27.jpg"
+              t5title="G. Gunjan"
             />
-            <Coord
-              batch="Student Coordinators"
-          
-              t1img="../images/Student Coordinators/5.jpg"
-              t1title="S. Jashwanth"
 
-              t2img="../images/Student Coordinators/6.jpg"
-              t2title="Kaleru Hemanth"
-
-              t3img="../images/Student Coordinators/7.jpg"
-              t3title="K. Hemanth"
-
-              t4img="../images/Student Coordinators/8.jpg"
-              t4title="S. Hemanth"
-
-              t5img="../images/Student Coordinators/9.jpg"
-              t5title="V. Bhavishya"
-            />
             <Coord
               batch="Student Coordinator's"
               t1img="../images/Student Coordinators/10.jpg"
@@ -102,11 +83,51 @@ function App() {
               t10img="../images/Student Coordinators/20.jpg"
               t10title="T. Pranit"
 
+              t11img="../images/Student Coordinators/21.jpg"
+              t11title="M. Siva Shankar Reddy"
+/>
+            <Coord
+              batch="Student Coordinators"
+          
+              t1img="../images/Student Coordinators/5.jpg"
+              t1title="S. Jashwanth"
 
+              t2img="../images/Student Coordinators/6.jpg"
+              t2title="Kaleru Hemanth"
+
+              t3img="../images/Student Coordinators/7.jpg"
+              t3title="K. Hemanth"
+
+              t4img="../images/Student Coordinators/8.jpg"
+              t4title="S. Hemanth"
+
+              t5img="../images/Student Coordinators/9.jpg"
+              t5title="V. Bhavishya"
+            />
+            
+              <Coord
+              batch="Student Coordinators"
+              t1img="../images/Student Coordinators/1.jpg"
+              t1title="V. Mani Sai Varma  "
+            
+              t2img="../images/Student Coordinators/2.jpg"
+              t2title="S. Jeethendra"
+
+              t3img="../images/Student Coordinators/3.jpg"
+              t3title="K. Madhusudhan"
+
+              t4img="../images/Student Coordinators/17.jpg"
+              t4title="B. Shravan Goud"
+
+              t5img="../images/Student Coordinators/4.jpg"
+              t5title="G. Mythri"
+            
+
+            />
              
 
 
-            />
+            
           </Route>
           
             
@@ -359,7 +380,9 @@ function App() {
                 <div className="row">
                     <h4 className="left">2023 - 2024</h4>
                   <ul>
-                 
+                    <li className="a"><a href="https://drive.google.com/file/d/1dsHwaebnraVGIsAlFWkVXScfvLMKiRx-/view?usp=drive_link">NATIONAL YOUTH FESTIVAL 12/01/2024 to 17/01/2024</a></li>
+                    </ul>                 
+                  <ul>
                   <li className="a"><a href="https://drive.google.com/file/d/1u3NAhn--3uOnBiQAUuHf09T3ZZpGCU4H/view?usp=drive_link">NATIONAL LEVEL MMMD PROGRAMME 30/10/2023 TO 31/10/2023</a></li>
                   </ul>
                   <h4 className="left">2022 - 2023</h4>
